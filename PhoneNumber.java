@@ -29,4 +29,18 @@ class PhoneNumber
 		}
 
 	}
+	public boolean isNumValid()
+	{
+		if(this.number == new PhoneNumber().number)
+			return false;
+		return true;
+	}
+	public String ToString()
+	{
+		return this.countryCode + this.number;
+	}
+	public void NumPrint()
+	{
+		System.out.println(this.ToString());
+	}
 }

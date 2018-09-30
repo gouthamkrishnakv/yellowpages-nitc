@@ -4,4 +4,3 @@ class Administration
 	PhoneNumber[] Numbers  = new PhoneNumber[10];
 //	String Notes;
 }
-
