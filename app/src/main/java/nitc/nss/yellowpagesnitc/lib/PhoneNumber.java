@@ -37,13 +37,13 @@ class PhoneNumber {
 		}
 		else if(number.length() == 12)
 		{
-			this.number = number.substring(0,10);
-			this.countryCode = '+' + number.substring(10,12);
+			this.number = number.substring(2,12);
+			this.countryCode = '+' + number.substring(0,2);
 		}
 		else if(number.length()==13)
 		{
-			this.number = number.substring(0,10);
-			this.countryCode = number.substring(10,13);
+			this.number = number.substring(3,13);
+			this.countryCode = number.substring(0,3);
 		}
 		else
 		{

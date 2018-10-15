@@ -1,5 +1,7 @@
 // PACKAGE WHICH WAS SUPPOSED TO BE ADDED FOR CONNECTING THE APP
 package nitc.nss.yellowpagesnitc.lib;
+import android.telecom.PhoneAccount;
+
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
@@ -25,6 +27,25 @@ class Administration
 		{
 			this.Numbers[i] = new PhoneNumber();
 		}
+	}
+	public Administration GetAdministration(Scanner userInputScanner)
+	{
+		System.out.println("Enter the Name:");
+		if(userInputScanner.hasNextLine())
+			this.setName(userInputScanner.nextLine());
+		for(int i=0;i<n;i++)
+			this.Numbers[i] = new PhoneNumber();
+		for(int i=0;i<n;i++)
+		{
+			String newInput = "0";
+			System.out.println("Do you want to enter a value " + (i+1) + "(1 for yes, 0 for no)");
+			if(userInputScanner.hasNextLine())
+				newInput = userInputScanner.nextLine();
+			if(newInput=="0")
+				break;
+			this.Numbers[i] = new PhoneNumber(newInput);
+		}
+		return this;
 	}
 //	 GETTERS AND SETTERS
 	public String getName()
@@ -87,10 +108,11 @@ class Administration
 		{
 			this.setName(scanObject.nextLine());
 		}
-		int i = n;
-		while(scanObject.hasNextLine()&&n>0)
+		int i = 0;
+		while(scanObject.hasNextLine()&&i<n)
 		{
 			this.Numbers[i] = new PhoneNumber(scanObject.nextLine());
+			i++;
 		}
 	}
 	public ArrayList<Administration> GetAdministrationList()
@@ -119,5 +141,13 @@ class Administration
 			arrayListObject.add(new Administration(objScanner));
 		}
 		return arrayListObject;
+	}
+	public String toString()
+	{
+		String finalString = "";
+		finalString +="Name:\t\t" + this.Name;
+		for(int i=0;i<n;i++)
+			finalString+="\nPhone Number " + (i+1) + "\t:" + this.Numbers[i].toString();
+		return finalString;
 	}
 }
