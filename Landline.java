@@ -1,37 +1,38 @@
 class Landline {
-	String areaCode = "0495";
+	String AreaCode = "0495";
 	String number = "1234567";
 	public Landline(String phoneno)
 	{
 		if(phoneno.length() == 10)
 		{
-			this.areaCode = "0" +  phoneno.substring(0,4);
+			this.AreaCode = "0" +  phoneno.substring(0,4);
 			this.number = phoneno.substring(4,10);
 		}
 		else if(phoneno.length() == 11)
 		{
-			this.areaCode = phoneno.substring(0,5);
+			this.AreaCode = phoneno.substring(0,5);
 			this.number = phoneno.substring(5,11);
 		}
 		else if(phoneno.length() == 7)
 		{
-			this.areaCode = "0495";
+			this.AreaCode = "0495";
 			this.number = phoneno;
 		}
 		else
 		{
 			System.out.println("ERROR ADDING THE PHONE NO");
+			throw new Exception("WRONG LENGTH FOR PARAMETER 0 (LANDLINE CTOR)");
 		}
 	}
-	public Landline(String areaCode, String phoneno)
+	public Landline(String AreaCode, String phoneno)
 	{
-		if(phoneno.length() == 7 && (areaCode.length() == 3 || areaCode.length() == 4))
+		if(phoneno.length() == 7 && (AreaCode.length() == 3 || AreaCode.length() == 4))
 		{
 			this.number = phoneno;
-			if(areaCode.length() == 3)
-				this.areaCode = "0" + areaCode;
+			if(AreaCode.length() == 3)
+				this.AreaCode = "0" + AreaCode;
 			else
-				this.areaCode = areaCode;
+				this.AreaCode = areaCode;
 		}
 	}
 }

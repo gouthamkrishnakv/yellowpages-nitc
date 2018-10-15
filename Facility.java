@@ -20,4 +20,8 @@ class Facility
 		this.ClosingTime = "";
 		this.LocationDescription = "";
 	}
+	public LinkedList<Facility> getFacilityList(String filename)
+	{
+		File file = new File(filename);
+	}
 }
