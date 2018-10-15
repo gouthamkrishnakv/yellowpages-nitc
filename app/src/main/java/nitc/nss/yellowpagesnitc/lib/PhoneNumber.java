@@ -1,10 +1,27 @@
+package nitc.nss.yellowpagesnitc.lib;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 import java.util.ArrayList;
-class PhoneNumber
-{
+class PhoneNumber {
 	private String number;
 	private String countryCode = "+91";
+
+	public String getNumber() {
+		return this.number;
+	}
+
+	public String getCountryCode()
+	{
+		return this.countryCode;
+	}
+	public void setNumber(String number)
+	{
+		this.number = number;
+	}
+	public void setCountryCode(String countryCode)
+	{
+		this.countryCode = countryCode;
+	}
 	public PhoneNumber()
 	{
 		this.number = "1234567890";
@@ -34,6 +51,11 @@ class PhoneNumber
 			// throw new Exception("WRONG SIZE");
 		}
 	}
+    public PhoneNumber(PhoneNumber newNumber)
+    {
+        this.number = newNumber.number;
+        this.countryCode = newNumber.countryCode;
+    }
 	public boolean isNumValid()
 	{
 		if(this.number == new PhoneNumber().number)
@@ -58,7 +80,7 @@ class PhoneNumber
 		{
 			testString = userInput.nextLine();
 			testNumber = new PhoneNumber(testString);
-			while(testNumber.isNumValid() == false)
+			while(!testNumber.isNumValid())
 			{
 				System.out.print("<PhoneNumber> Wrong Number Format. Try Again:");
 				if(userInput.hasNextLine())

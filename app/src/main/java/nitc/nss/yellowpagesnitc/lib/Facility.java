@@ -1,3 +1,8 @@
+package nitc.nss.yellowpagesnitc.lib;
+import java.io.File;
+import java.lang.Exception;
+import java.util.LinkedList;
+
 class Facility
 {
 	private final int n = 5;
@@ -22,6 +27,7 @@ class Facility
 	}
 	public LinkedList<Facility> getFacilityList(String filename)
 	{
-		File file = new File(filename);
+		LinkedList<Facility> LinkedLObj = new LinkedList<Facility>();
+		return LinkedLObj;
 	}
 }

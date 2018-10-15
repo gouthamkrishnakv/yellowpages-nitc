@@ -1,3 +1,8 @@
+package nitc.nss.yellowpagesnitc.lib;
+
+import java.util.InputMismatchException;
+import java.util.Scanner;
+
 class HealthCare
 {
 	private String Name;
@@ -35,15 +40,15 @@ class HealthCare
 	public HealthCare() {
 		//	super();
 		Scanner userInput = new Scanner(System.in);
-		System.out.Print("<HEALTHCARE> Enter the Name : ");
+		System.out.print("(HealthCare)Enter the Name : ");
 		if(userInput.hasNextLine())
-			this.setName(userInput.NextLine());
+			this.setName(userInput.nextLine());
 		else
-			throw new InputMismatchException("<HealthCare, Name>");
+		    throw new InputMismatchException("<HealthCare, Name>");
 		this.SetNumber();
-		System.out.print("<HEALTHCARE> Enter the timings (For newlines, use \\n escape sequence):");
+		System.out.print("<HealthCare> Enter the timings (For newlines, use \\n escape sequence):");
 		if(userInput.hasNextLine())
-			this.SetTiming(userInput.NextLine());
+			this.SetTiming(userInput.nextLine());
 		else
 			throw new InputMismatchException("<HealthCare, Timing>");
 	}

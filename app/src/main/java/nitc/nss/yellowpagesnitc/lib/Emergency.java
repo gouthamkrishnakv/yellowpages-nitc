@@ -1,3 +1,4 @@
+package nitc.nss.yellowpagesnitc.lib;
 class Emergency
 {
 	int n = 10;

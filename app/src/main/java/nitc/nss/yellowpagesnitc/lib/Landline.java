@@ -1,3 +1,4 @@
+package nitc.nss.yellowpagesnitc.lib;
 class Landline {
 	String AreaCode = "0495";
 	String number = "1234567";
@@ -21,7 +22,7 @@ class Landline {
 		else
 		{
 			System.out.println("ERROR ADDING THE PHONE NO");
-			throw new Exception("WRONG LENGTH FOR PARAMETER 0 (LANDLINE CTOR)");
+			//throw new Exception("WRONG LENGTH FOR PARAMETER 0 (LANDLINE CTOR)");
 		}
 	}
 	public Landline(String AreaCode, String phoneno)
@@ -32,7 +33,7 @@ class Landline {
 			if(AreaCode.length() == 3)
 				this.AreaCode = "0" + AreaCode;
 			else
-				this.AreaCode = areaCode;
+				this.AreaCode = AreaCode;
 		}
 	}
 }

@@ -1,3 +1,7 @@
+package nitc.nss.yellowpagesnitc.lib;
+
+import java.util.ArrayList;
+
 class Transportation
 {
 	String Name;
@@ -5,13 +9,8 @@ class Transportation
 	public Transportation()
 	{
 		this.Name = "";
-		this.Number = "";
+		this.Number = new PhoneNumber();
 	}
-	ArrayList ReadArrayList(String filename)
-	{
-		ArrayList<Transportation> ReturningArray;
-		File FileReader = new File(filename);
-		
-	}
+
 }
 
