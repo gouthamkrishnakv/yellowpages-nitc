@@ -1,5 +1,7 @@
 package nitc.nss.yellowpagesnitc;
 
+import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
@@ -10,6 +12,8 @@ import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
+import android.widget.LinearLayout;
 import android.widget.TextView;
 
 import java.io.Serializable;
@@ -18,17 +22,17 @@ import java.util.List;
 import nitc.nss.yellowpagesnitc.lib.Contact;
 
 
-public class ContactsList extends Fragment {
+public class ContactsListFragment extends Fragment {
     private List<Contact> contacts;
 
     private RecyclerView recyclerView;
 
-    public ContactsList() {
+    public ContactsListFragment() {
         // Required empty public constructor
     }
 
-    public static ContactsList newInstance(List<Contact> contacts) {
-        ContactsList fragment = new ContactsList();
+    public static ContactsListFragment newInstance(List<Contact> contacts) {
+        ContactsListFragment fragment = new ContactsListFragment();
         Bundle args = new Bundle();
         args.putSerializable("contacts", (Serializable) contacts);
         fragment.setArguments(args);
@@ -90,27 +94,36 @@ public class ContactsList extends Fragment {
     private class ContactViewHolder extends RecyclerView.ViewHolder {
 
         private TextView vName;
-        private TextView vPhones;
+        private LinearLayout vPhonesList;
         private TextView vNotes;
 
 
         public ContactViewHolder(View itemView) {
             super(itemView);
             vName = itemView.findViewById(R.id.name);
-            vPhones = itemView.findViewById(R.id.phones);
+            vPhonesList = itemView.findViewById(R.id.phonesList);
             vNotes = itemView.findViewById(R.id.notes);
         }
 
         public void loadContact(Contact contact) {
             vName.setText(contact.name);
-            StringBuilder phones = new StringBuilder();
-            for(String number: contact.numbers) {
-                phones.append(number);
-                phones.append("\n");
+            for(final String number: contact.numbers) {
+                View phonesListEntry = LayoutInflater.from(getContext())
+                        .inflate(R.layout.phones_list_item, null);
+                TextView phone = phonesListEntry.findViewById(R.id.phone);
+                phone.setText(number);
+                Button dialBtn = phonesListEntry.findViewById(R.id.dialBtn);
+                dialBtn.setOnClickListener(new View.OnClickListener() {
+                    @Override
+                    public void onClick(View view) {
+                        Intent callIntent = new Intent(Intent.ACTION_DIAL);
+                        callIntent.setData(Uri.parse("tel:"+number));
+                        startActivity(callIntent);
+                    }
+                });
+                vPhonesList.addView(phonesListEntry);
             }
-            vPhones.setText(phones);
             vNotes.setText(contact.notes);
-            Log.d("NITC_YP_ContactViewHolder", contact.toString());
         }
     }
 

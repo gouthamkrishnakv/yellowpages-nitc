@@ -28,7 +28,7 @@ public class ContactCategoriesPagerAdapter extends FragmentPagerAdapter {
     public Fragment getItem(int position) {
         if(contactCategoryFragments.get(position) == null) {
             List<Contact> contacts = contactCategories.get(position).contacts;
-            Fragment f = ContactsList.newInstance(contacts);
+            Fragment f = ContactsListFragment.newInstance(contacts);
             contactCategoryFragments.set(position, f);
         }
 
