@@ -1,9 +1,10 @@
 package nitc.nss.yellowpagesnitc.lib;
 
+import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Contact {
+public class Contact implements Serializable {
     public String name;
     public List<String> numbers;
     public String notes;

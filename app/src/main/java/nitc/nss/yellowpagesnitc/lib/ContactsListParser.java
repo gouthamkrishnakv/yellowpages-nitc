@@ -32,16 +32,17 @@ public class ContactsListParser {
             if(line.endsWith(":")) {
                 cur_contact = new Contact(line.substring(0, line.length()-1));
                 cur_category.contacts.add(cur_contact);
+                continue;
             }
 
             if(cur_contact == null) {
                 throw new ParsingException("No contact name specified before specifying contact details");
             }
 
-            if(line.matches("[0-9,+ ]+")) {
+            if(line.matches("[0-9,+ -]+")) {
                 cur_contact.numbers.add(line);
             } else {
-                cur_contact.notes = cur_contact.notes.concat(line);
+                cur_contact.notes = cur_contact.notes.concat(line).concat("\n");
             }
 
         }
