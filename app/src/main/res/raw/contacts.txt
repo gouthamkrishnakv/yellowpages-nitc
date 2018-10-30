@@ -1,27 +1,3002 @@
-#Facility
+#Administration
 
-    Keerthi (Mega):
-        1234153
-        +211131241 121
-        +123123 123123 -123
-        Open from 10-5
+   GA7:
+       0495 228 6123
+       Upper division clerk
+       New Admin Block GF
 
-    Keerthi (PG1):
-        1234153
-        +211131241 121
-        +123123 123123 -123
-        Open from 9-5
+   Accountant:
+       0495 228 6183
+       
+       Old Admin block GF
 
-#Auto
+   Accounts:
+       0495 228 6194
+       
+       Old Admin Block GF
 
-    ASDFG:
-        9879812317
-        13127
-        fafmjqwerr
-        sadfkowelrq
-        sadrlqewrqr
+   Accounts:
+       0495 228 6125
+       Cash Counter 1
+       Old Admin Block GF
 
-    Aeqiorjnqiob:
-        87923432
-        kjnijink
-        knkjbbkjbkjljk
+   Accounts:
+       0495 228 6108
+       
+       Old Admn Block GF
+
+   Accounts:
+       0495 228 6196
+       
+       Old Admin Block GF
+
+   Alumni Office:
+       0495 228 6670
+       
+       
+
+   ARYABHATTA:
+       0495 228 6141
+       
+       ARYABHATTA
+
+   Mr Ashok Kumar Dev:
+       0495 228 6164
+       Assistant Registrar Finance
+       Old admn block GF
+
+   Dr Ashok S:
+       0495 228 6144
+       Dean R&C
+       New admin block, Second floor
+
+   Mr Bharat Singh Rawat:
+       0495 228 6140
+       drest@nitc.ac.in
+       Deputy Registrar (Estt)
+       New Admin block GF
+
+   BHASKARA:
+       0495 228 6142
+       
+       BHASKARA
+
+   BTECH coordinator First Year:
+       0495 228 6197
+       
+       ECLC Block
+
+   Mr C Preman:
+       0495 228 6118
+       premanc@nitc.ac.in
+       Watchman Cum Gardener
+       New Admn Block GF
+
+   Mr. C.V.Ajish Kumar:
+       0495 228 6178
+       secofficer@nitc.ac.i@nitc.ac.in
+       Security Officer
+       New Adimin Block GF
+
+   CA-Registrar Office:
+       0495 228 6173
+       
+       Old Admin Block FF
+
+   CHANAKYA:
+       0495 228 6143
+       
+       CHANAKYA
+
+   Ms Chandrika:
+       0495 228 6117
+       Upper division clerk
+       New Admin Block GF
+
+   Ms Chandrika G:
+       0495 228 6155
+       Upper Division Clerk
+       New Admn Block GF
+
+   Conference Hall:
+       0495 228 6138
+       
+       Old Admin Block FF
+
+   Mr Cyril E K:
+       0495 228 6127
+       iao@nitc.ac.in
+       OSD Audit
+       Old Admn Block FF
+
+   Dean Academic office:
+       0495 228 6104
+       
+       New Adminstration Block FF
+
+   Dean FW office:
+       0495 228 6186
+       
+       New Admn Block FF
+
+   Dean P&D Office:
+       0495 228 6171
+       
+        New Adminstration  Block FF
+
+   Dean R&C office:
+       0495 228 6145
+       
+       New admin block, Second floor
+
+   Despatch:
+       0495 228 6146
+       
+       New Admin Block GF
+
+   Ms Devi K P:
+       0495 228 6104
+       Sanitation Worker
+       New Admn Block FF
+
+   Ms Devi Poolakkal:
+       0495 228 6114
+       Sanitation Worker
+       Old Admn Block GF
+
+   Director Office:
+       0495 228 6192
+       
+       Old Admin Block FF
+
+   DR Academic Office:
+       0495 228 6162
+       
+        New Adminstration  Block GF
+
+   DR Accounts Office:
+       0495 228 6174
+       
+       Old Admin Block GF
+
+   Mr Dr.Raghunadhan T:
+       0495 228 6136
+       raghu@nitc.ac.in@nitc.ac.in
+       DR Academics
+        New Admin Block GF
+
+   Financial Assistant:
+       0495 228 6199
+       
+       Old Admin Block GF
+
+   Mr. Gejo C V:
+       0495 228 6113
+       drf@nitc.ac.in
+       Deputy Registrar (Finance)
+       New Admin Block GF
+
+   Internal Auditor Office:
+       0495 228 6129
+       
+       Old Admin Block FF
+
+   Ms Jameela A K:
+       0495 228 6145
+       Sweeper Cum Sanitation Worker
+       New admin block, Second floor
+
+   Mr Janardhanan:
+       0495 228 6114
+       Peon (Higher Grade)
+       Old admn block GF
+
+   Mr Janardhanan T:
+       0495 228 6128
+       Watchman cum gardener
+       New admn block GF
+
+   Ms Juliet Das P D:
+       0495 228 6195
+       juliet@nitc.ac.in
+       Upper division clerk
+       New admn block GF
+
+   Mr K M Murali Krishnan:
+       0495 228 6165
+       OSD (S&P)
+       New Admn Block GF
+
+   Mr M Sivaraman:
+       0495 228 6195
+       Watchman
+       New admn block GF
+
+   Dr M V L R Anjaneyulu:
+       0495 228 6105
+       Dean P&D
+        New Adminstration  Block FF
+
+   Mr M V Prasad:
+       0495 228 6100
+       mvprasad@nitc.ac.in
+       Divisional Accountant
+       Old Admn Block FF
+
+   Ms Mareena John:
+       0495 228 6163
+       mereena@nitc.ac.in
+       Upper division clerk
+       Old Admin Block GF
+
+   Ms Mini K:
+       0495 228 6135
+       minik@nitc.ac.in
+       Junior Superintendent
+       Old Admin Block GF
+
+   Mr Muraleedharan P:
+       0495 228 6121
+       muralip@nitc.ac.in
+       Junior Superintendent
+       New Admn Block GF
+
+   Mr Narayanan T:
+       0495 228 6191
+       Sanitation worker 
+       Old admn block FF
+
+   Lt Col(Retd) Pankajakshan  K:
+       0495 228 6106
+       registrar@nitc.ac.in
+       Registrar
+       Old Admn Block FF
+
+   Lt Col (Retd) Pankajakshan K:
+       0495 228 6107
+       registrar@nitc.ac.in
+       Registrar
+       Registrar's Residence
+
+   Pension:
+       0495 228 6111
+       
+       New Admin Block GF
+
+   Mr Petson Andrew:
+       0495 228 6118
+       petson@nitc.ac.in
+       Upper division clerk
+       New admn block GF
+
+   Ms Prama P:
+       0495 228 6114
+       prema@nitc.ac.in
+       Upper division clerk
+       Old admn block GF
+
+   Purchase S1 Section:
+       0495 228 6166
+       
+       New Adminstration Block SF
+
+   Purchase S2 section:
+       0495 228 6133,6134
+       
+        New Adminstration  Block SF
+
+   Purchase S3 section:
+       0495 228 6109
+       
+       New admin block 2nd floor
+
+   Purchase S4 section:
+       0495 228 6115,6193
+       
+       New Admn Block GF
+
+   Purchase S5 section:
+       0495 228 6131
+       
+        New Adminstration  Block SF
+
+   Purchase S8 section:
+       0495 228 6153
+       
+        New Adminstration  Block SF
+
+   Mr Purushothaman Pillai K N:
+       0495 228 6116
+       knppillai@nitc.ac.in
+       Upper division clerk
+       Old admn block GF
+
+   Ms Pushpavally V:
+       0495 228 6123
+       Sanitation worker 
+       New admn block GF
+
+   Registrar Office:
+       0495 228 6191
+       
+       Old Admin Block FF
+
+   Mr Revi V:
+       0495 228 6128
+       Watchman Cum Gardener
+       New Admn Block GF
+
+   RTI Office:
+       0495 228 6112
+       
+        New Adminstration  Block GF
+
+   Ms Rugmini C P:
+       0495 228 6181
+       rugmini@nitc.ac.in
+       Senior superintendent
+       Old Admin block GF
+
+   Dr Sathidevi P.S:
+       0495 228 6103
+       Dean Academic
+        New Adminstration  Block FF
+
+   Security Director Bungalow:
+       0495 228 6666
+       Secutity
+       
+
+   Security Ladies Hostel Gate:
+       0495 228 6665
+       Security
+       
+
+   SECURITY MAIN GATE:
+       0495 228 6668
+       
+       SECURITY MAIN GATE
+
+   Mr Sethu Madhavan Mecheri:
+       0495 228 6161
+       mecheri@nitc.ac.in
+       Upper division clerk
+       Old Admin Block GF
+
+   Mr Shafi S M:
+       0495 228 6108
+       shafism@nitc.ac.in
+       Upper division clerk
+       Old admn block GF
+
+   Ms Sindu P:
+       0495 228 6157
+       sindu@nitc.ac.in
+       Upper division clerk
+       New Admin Block GF
+
+   Ms Smera K S:
+       0495 228 6122
+       smera@nitc.ac.in
+       Upper division clerk
+       New Admn Block GF
+
+   Ms Sobhana T:
+       0495 228 6158
+       sobhana@nitc.ac.in
+       Upper division clerk
+       New Admin Block GF
+
+   Ms Soosy kutty J L:
+       0495 228 6139
+       Upper division clerk
+       New Admn Block GF
+
+   Ms Sreeda S:
+       0495 228 6179
+       arestt@nitc.ac.in
+       Assistant Registrar
+       New Admin Block GF
+
+   Mr Sukumaran Nair N:
+       0495 228 6159
+       nsnair@nitc.ac.in
+       Upper division clerk
+       New Admn Block GF
+
+   Dr. T.M. Madhavan Pillai:
+       0495 228 6172
+       mpillai@nitc.ac.in
+       Dean FW
+       New Admin Block FF
+
+   TEQIP Office:
+       0495 228 6137
+       
+       New Admin Block FF
+
+   TEQIP Office ( Procurement ):
+       0495 228 6148
+       
+       New Admin Block FF
+
+   Mr Ummerkutty N K:
+       0495 228 6134
+       Watchman
+       New admn block SF
+
+   Dr Unnikrishnan:
+       0495 228 6169
+       deansw@nitc.ac.in
+       Dean Students Welfare
+        New Adminstration  Block FF
+
+   Mr Unnikrishnan C:
+       0495 228 6130
+       Vehicle cleaner
+       Old admn blockGF
+
+   Mr Unnikrishnan K:
+       0495 228 6156
+       unni@nitc.ac.in
+       Upper division clerk
+       New Admn Block GF
+
+   Ms Vishalakshi E:
+       0495 228 6186
+       Sanitation Worker
+       New Admn Block FF
+
+
+
+#Architecture
+
+   Architecture Engineering Office:
+       0495 228 6901
+       
+       Architecture Engineering Block FF
+
+   HOD:
+       0495 228 6900
+       hodarc@nitc.ac.in
+       HOD
+       Architecture Engineering Block FF
+
+   Dr Anil Kumar  P P:
+       0495 228 6903
+       ppa@nitc.ac.in
+       Associate Professor
+       AB311
+
+   Mr Bimal P:
+       0495 228 6909
+       bimalp@nitc.ac.in
+       Assistant Professor
+       AB315
+   CA Lab:
+       0495 228 6913
+       
+       Architecture Engineering Block FF
+
+   CAD Lab:
+       0495 228 6912
+       
+       Architecture Engineering Block GF
+
+   Ms Chithra K:
+       0495 228 6908
+       chithrak@nitc.ac.in
+       Assistant Professor
+       AB310
+
+   IMD Lab:
+       0495 228 6914
+       
+       
+
+   Dr Kasturba A K:
+       0495 228 6905
+       kasthurba@nitc.ac.in
+       Associate Professor & HOD
+       AB308
+   Dr Mohammed Firoz C:
+       0495 228 6910
+       firoz@nitc.ac.in
+       Assistant Professor
+       AB314
+   Dr Naseer M A:
+       0495 228 6904
+       naseer@nitc.ac.in
+       Associate Professor 
+       AB212
+   Ms Sangeetha P K:
+       0495 228 6901
+       peon
+       Architecture Engineering FF
+
+   Ms Shyni K:
+       0495 228 6906
+       shyni@nitc.ac.in
+       Assistant Professor
+       AB313
+#Central Library
+
+   CENTRAL LIBRARY REFFERENCE RECORDING:
+       0495 228 6062
+       
+       Central Library
+
+   Mr Chandramohanan M K:
+       0495 228 6057
+       mkcm@nitc.ac.in
+       Graphic Artist (Hr.Gr)
+       Central Library
+
+   Circulation:
+       0495 228 6060
+       
+       Central Library
+
+   EDUCATION GRID:
+       0495 228 6054
+       
+       Central Library
+
+   Graphic Studio:
+       0495 228 6057
+       
+       Central Library
+
+   Mr jayaraman K:
+       0495 228 6059
+       jayaram@nitc.ac.in
+       Offset Machine Operator(Hr.Gr)
+       Central Library
+
+   Dr Jeevamma Jacob:
+       0495 228 6050
+       CHAIRMAN-ETL
+       Central Library First Floor
+
+   Journal Section & Reference Section:
+       0495 228 6058
+       journallib@nitc.ac.in
+       
+       Central Library
+
+   Ms Latha C:
+       0495 228 6055
+       latha@nitc.ac.in
+       Librarian Grade IV (Hr.Gr)
+       Central Library
+
+   Librarian:
+       0495 228 6053
+       librarian@nitc.ac.in
+       
+       Central Library
+
+   Library Office:
+       0495 228 6063
+       
+       Central Library
+
+   Library Stack Room:
+       0495 228 6052
+       
+       Central Library
+
+   Nalanda Digital Library:
+       0495 228 6056
+       nalanda@nitc.ac.in
+       
+       Central Library
+
+   NALANDA SERVER ROOM:
+       0495 228 6051
+       
+       Central Library GF
+
+   Printing and Binding:
+       0495 228 6059
+       
+       Central Library
+
+   SC/ST  Section:
+       0495 228 6061
+       
+       Central Library
+
+   Mr Shaju K P:
+       0495 228 6052
+       shaju@nitc.ac.in
+       Librarian Grade IV 
+       Central Library
+
+   Ms Sobhana J:
+       0495 228 6058
+       sobhaj@nitc.ac.in
+       Librarian Grade IV (Hr.Gr)
+       Central Library 
+
+   Ms Sweety Mathew:
+       0495 228 6053
+       sweety@nitc.ac.in
+       Librarian Grade III (Hr.Gr)
+       Central Library
+
+   Ms Syamala I:
+       0495 228 6063
+       Sanitation Worker
+       Central Library
+
+   Mr T Jayarajan:
+       0495 228 6055
+       jayarajan@nitc.ac.in
+       Librarian Grade IV (Hr.Gr)
+       Central Library
+
+   Technical section:
+       0495 228 6055
+       booklib@nitc.ac.in
+       
+       Central Library
+
+   Vigilance Section:
+       0495 228 6667
+       
+       
+
+   Mr Vinod K P:
+       0495 228 6063
+       Watchman Cum Gardener
+       Central Library
+
+
+
+#Chemical Engineering
+
+   Chemical Engineering Office:
+       0495 228 5401
+       Chemical Engineering FF
+
+   HOD:
+       0495 228 5400
+       hodchemical@nitc.ac.in
+       HOD
+       Chemical Engineering FF
+
+   Ms Aparna K:
+       0495 228 5405
+       aparnak@nitc.ac.in
+       Assistant Professor
+       Chemical 204A
+
+   Dr Chandra Shekar Bestha:
+       0495 228 5467
+       schandra@nitc.ac.in
+       Assistant Professor
+       Chemical block 206(A)
+
+
+   Dr Dhanya Ram:
+       0495 228 5464
+       dhanyaram@nitc.ac.in
+       Assistant Professor
+       Chemical block 205(E)
+
+
+
+   INSTRUMENTAL ANALYSIS LAB:
+       0495 228 5484
+       
+       
+
+   Mr K Haribabu:
+       0495 228 5408
+       haribhabu@nitc.ac.in
+       Assistant Professor
+       Chemical 109
+   Dr Lity Alen Varghese:
+       0495 228 5403
+       lityalen@nitc.ac.in
+       Associate Professor
+       Chemical 204
+   Dr Malladi V Pavan Kumar:
+       0495 228 5410
+       malladi@nitc.ac.in
+       Assistant Professor
+       Chemical 206
+   Mr N Selvaraju:
+       0495 228 5409
+       selvaraju@nitc.ac.in
+       Assistant Professor
+       Chemical 108
+   Dr Noel Jacob Kaleekal:
+       0495 228 5463
+       noel@nitc.ac.in
+       Assistant Professor
+       Chemical block 105
+   Dr Prasanna Kumar S Mural:
+       0495 228 5466
+       prasannakumar@nitc.ac.in
+       Assistant Professor
+       Chemical block 207
+   Dr R.ASWATHI NAIR:
+       0495 228 5459
+       Chemical Engineering block
+
+   RESEARCH LAB 1:
+       0495 228 5485
+       
+       
+
+   Research Lab 2:
+       0495 228 5411
+       
+       chemical Engineering  FF
+
+   Dr S Bhuvaneshwari:
+       0495 228 5402
+       sbuvana@nitc.ac.in
+       Assistant Professor
+       Chemical 204E
+
+   Dr Shiny Joseph:
+       0495 228 5404
+       Shiny@nitc.ac.in
+       Associate Professor
+       Chemical 204C
+
+   Dr Sivasubramanian V:
+       0495 228 5406
+       siva@nitc.ac.in
+       Associate Professor & HOD
+       Chemical 204B
+
+   Dr Sudev Das:
+       0495 228 5468
+       sudev@nitc.ac.in
+       Assistant Professor
+       Chemical block 108
+   Dr SUSMITA DAS:
+       0495 228 5471
+       Assistant Professor
+       ROOM 101A
+
+   Dr Teja Reddy Vakamalla:
+       0495 228 5465
+       teja@nitc.ac.in
+       Assistant Professor
+       Chemical block 302
+   Mr Vineesh ravi:
+       0495 228 5407
+       vineeshravi@nitc.ac.in
+       Assistant Professor
+       Chemical 110
+#Chemistry
+
+	 Chemistry Office:
+       0495 228 5301
+       Chemistry Block FF
+		
+	 HOD:
+       0495 228 5300
+       hodchemistry@nitc.ac.in
+       HOD
+       Chemistry Block FF
+	
+	 Dr Janardhan Banothu:
+       0495 228 5324
+       janardhan@nitc.ac.in
+       Assistant Professor
+       Chemistry Block 210C
+
+   Dr Lakshmi C:
+       0495 228 5306
+       lakshmi@nitc.ac.in
+       Associate Professor & HoD
+       Chemistry Block 306
+	
+   Dr Lisa Sreejith:
+       0495 228 5309
+       lisa@nitc.ac.in
+       Associate Professor And HOD
+       Chemistry Block 210B
+
+	 Dr Muniyandi Sankaralingam:
+       0495 228 5325
+       msankaralingam@nitc.ac.in
+       Assistant Professor
+       Chemistry block FF 210-A
+
+   Dr Parameswaran Pattiyil:
+       0495 228 5304
+       param@nitc.ac.in
+       Assistant Professor
+       Chemistry Block 303
+	
+	 Dr Raju dey:
+       0495 228 5326
+       rajudey@nitc.ac.in
+       Assistant Professor
+       Chemistry block Room :210(A)
+
+	 Dr Sujith A:
+       0495 228 5308
+       sujith@nitc.ac.in
+       Assistant Professor
+       Chemistry Block 305
+
+   Dr Suni Vasudevan:
+       0495 228 5305
+       suniv@nitc.ac.in
+       Assistant Professor
+       Chemistry Block 304
+
+   Dr Unnikrishnan:
+       0495 228 5302
+       unnig@nitc.ac.in
+       Professor
+       Chemistry Block 208
+
+   Dr Mini Mol:
+       0495 228 5303
+       Inspire Faculty
+
+   Bio Organic Lab:
+       0495 228 5317
+       Chemistry Block GF
+
+   Bioinorganic Materials Research Lab:
+       0495 228 5318
+       Chemistry Block SF
+
+  Computer Room:
+       0495 228 5322
+       Chemistry Block GF
+
+   Inorganic & Bio-Inorganic Lab:
+       0495 228 5311
+       Chemistry Block GF
+
+   Instrumentation Lab:
+       0495 228 5314
+       Chemistry Block FF
+
+   Instrumentation Lab 2:
+       0495 228 5323
+       Chemistry Block FF
+
+   Material Research lab:
+       0495 228 5319
+       Chemistry Block GF
+
+   PG Physical Lab:
+       0495 228 5312
+       Chemistry Block SF
+
+   Polymer Science & Technology Lab:
+       0495 228 5310
+       Chemistry Block GF
+
+   Soft Material Lab:
+       0495 228 5313
+       Chemistry Block GF
+
+   TGA/DSC:
+       0495 228 5315
+       Chemistry BlockGF
+
+   Theoretical Lab:
+       0495 228 5316
+       Chemistry Block SF
+
+   UG Lab 1:
+       0495 228 5320
+       Chemistry Block GF
+
+   UG Lab 2:
+       0495 228 5321
+       Chemistry Block GF
+
+#Civil Engineering
+
+   Civil Engineering Office:
+       0495 228 6201
+       
+       Civil Block FF
+
+
+   HOD:
+       0495 228 6200
+       civilhod@nitc.ac.in
+       HOD
+       Civil Block FF
+
+
+   Dr Agilan V:
+       0495 228 6251
+       agilan@nitc.ac.in
+       Assistant Professor
+       Civil PG 105
+   Mr Ajayakumar R:
+       0495 228 6243
+       ajayakumar@nitc.ac.in
+       Senior Mechanic
+       Transportation Lab
+
+   Dr Anjana Bhasi:
+       0495 228 6234
+       anjanabhasi@nitc.ac.in
+       Assistant Professor
+       Near Geotech lab
+
+   Mr  Balakrishnan K T:
+       0495 228 6201
+       Watchman Cum Gardener
+       Civil Engineering Block
+
+   Centre For Transportation Research:
+       0495 228 6248
+       
+       MB120
+   Dr Chandrakaran S:
+       0495 228 6209
+       chandra@nitc.ac.in
+        Professor
+       DB314
+   Ms Chithra N R:
+       0495 228 6228
+       chithranr@nitc.ac.in
+       Assistant Professor
+       COM Lab
+
+   Civil CAD/ CAM:
+       0495 228 6272
+       
+       Central Lybarary GF
+
+   Concrete Lab:
+       0495 228 6241
+       
+       Concrete Lab
+
+   Environmental Engineering Lab:
+       0495 228 6247
+       
+       Environmental Engineering Lab
+
+   Geo Technical Engineering Lab:
+       0495 228 6245
+       
+       Geo Technical Engineering Lab
+
+   Dr George K Varghese:
+       0495 228 6206
+       gkv@nitc.ac.in
+       Assistant Professor
+       Environmental Engg Lab
+
+   Dr Harikrishna M:
+       0495 228 6223
+       harikrishna@nitc.ac.in
+       Assistant Professor
+       MB120
+
+   Dr Indira P V:
+       0495 228 6213
+       indira@nitc.ac.in
+        Professor
+       DB109
+   Dr J.SUDHA KUMAR:
+       0495 228 6222
+       Professor & HOD
+       Civil Engineering FF
+
+   Dr K Krishna Murthy:
+       0495 228 6208
+       kk@nitc.ac.in
+       Assistant Professor
+       Transportation Lab
+
+   Dr K V Anand:
+       0495 228 6250
+       kvanand@nitc.ac.in
+       Assistant Professor
+       Offshore
+
+   Dr Kodi Ranga Swamy:
+       0495 228 6229
+       ranga@nitc.ac.in
+       Assistant Professor
+       DB314
+   Mr M Sivakumar:
+       0495 228 6232
+       sivakumarm@nitc.ac.in
+       Assistant Professor
+       MB106
+   Dr M V L R Anjaneyulu:
+       0495 228 6219
+       mvlr@nitc.ac.in
+        Professor
+       PG103
+   Dr Mini Remanan:
+       0495 228 6231
+       mini@nitc.ac.in
+       Assistant Professor
+       MB106
+   Dr Mohammed Ameen A M:
+       0495 228 6214
+       ameen@nitc.ac.in
+        Professor
+       DB112
+   Mr Mohanlal D:
+       0495 228 6245
+       mohanlal@nitc.ac.in
+       Senior Mechanic (Selection Grade)
+       Geo Technical Engineering Lab
+
+   Dr N Ganesan:
+       0495 228 6204
+       ganesan@nitc.ac.in
+        Professor
+       STR lab
+
+   Mr Noushad K K:
+       0495 228 6240
+       noushadk@nitc.ac.in
+       Senior Mechanic
+       SM Lab
+
+   Offshore:
+       0495 228 6246
+       
+       Offshore 
+
+   Offshore Computational lab:
+       0495 228 6283
+       
+       Offshore Building
+
+   Mr P Sreenivasan:
+       0495 228 6244
+       psreeni@nitc.ac.in
+       Senior Mechanic (Selection Grade)
+       Survey Lab( Main Block GF)
+
+   PG Computer Lab:
+       0495 228 6271
+       
+       Central Lybarary GF
+
+   PG Structural Lab:
+       0495 228 6242
+       
+       PG Structural Lab
+
+   Ms Pramada S K:
+       0495 228 6218
+       pramada@nitc.ac.in
+       Assistant Professor
+       MB106
+   Dr Praveen Nagarajan:
+       0495 228 6220
+       praveen@nitc.ac.in
+       Associate Professor
+       DB113
+   Dr R Arunkumar:
+       0495 228 6252
+       arunkr@nitc.ac.in
+       Assistant Professor
+       Below Central Library
+
+   Ms Reesha Bharath K:
+       0495 228 6282
+       reeshabharath@nitc.ac.in
+       Assistant Professor
+       DB107
+   Dr Sajith A S:
+       0495 228 6211
+       sajithas@nitc.ac.in
+       Assistant Professor
+       DB107
+   Dr Sankar N:
+       0495 228 6210
+       sankar@nitc.ac.in
+        Professor
+       DB116
+   Dr Santhosh G Thambi:
+       0495 228 6221
+       santosh@nitc.ac.in
+        Professor
+       offshore 1st flr
+
+   Dr Saseendran K:
+       0495 228 6212
+       saseendrank@nitc.ac.in
+       Associate Professor
+       DB111
+   Dr Sasikumar K:
+       0495 228 6224
+       sasikumar@nitc.ac.in
+       Associate Professor
+       PG103B
+
+   Mr Sathish Kumar D:
+       0495 228 6226
+       sathish@nitc.ac.in
+       Assistant Professor
+       GELab
+
+   Mr Sathiyan P K:
+       0495 228 6245
+       sathyan@nitc.ac.in
+       Senior Mechanic (Selection Grade)
+       Geo Technical Engineering Lab
+
+   Dr Shashikala A P:
+       0495 228 6207
+       apska@nitc.ac.in
+        Professor
+       DB113
+   Mr Shibu K:
+       0495 228 6247
+       shibu@nitc.ac.in
+       Instructor
+       Environmental Engineering Lab
+
+   SM Lab:
+       0495 228 6240
+       
+       SM Lab
+
+   Ms Stella V C:
+       0495 228 6201
+       Fair Copy Superintendent
+       Civil Engineering Office
+
+   Survey Lab:
+       0495 228 6244
+       
+       MB GF
+
+   Dr T M Madhavan Pillai:
+       0495 228 6216
+       mpillai@nitc.ac.in
+        Professor
+       PG101
+   Transportation Lab:
+       0495 228 6243
+       
+       Transportation Lab
+
+   Dr Zacharia Varghese T:
+       0495 228 6215
+       zacharia@nitc.ac.in
+        Professor
+       DB314
+
+	   Adhoc Faculty - CED:
+       0495 228 6281
+       
+       Civil Engineering 
+
+   Adhoc Faculty Room- Offshore:
+       0495 228 6203
+       
+       offshore
+
+#Computer Science and Engineering
+
+   Computer Science And Engineering Office:
+       0495 228 6801
+       
+       CSED Block GF
+
+   HOD:
+       0495 228 6800
+       hodcsed@nitc.ac.in
+       HOD
+       CSED Block GF
+
+
+   Dr Abdul Nazeer K A:
+       0495 228 6818
+       nazeer@nitc.ac.in
+       Associate Professor 
+       CSE Block Room No:203C
+
+   Mr Abdul Sathar V M:
+       0495 228 6868
+       sathar@nitc.ac.in
+       Senior Mechanic
+       Main Block FF
+
+
+   Mr Ajaya Chandran V R:
+       0495 228 6840
+       ajay@nitc.ac.in
+       computer operator( higher grade)
+       IT Lab Complex SF
+
+   Ms Anu Mary Chacko:
+       0495 228 6808
+       anu.chako@nitc.ac.in
+       Assistant Professor
+       CSE Block Room No:105
+   Bigdata Biocomputing Lab:
+       0495 228 6880
+       
+       Central Computer Centre (CCC)
+
+   Mr Biju Francis:
+       0495 228 6843
+       biju@nitc.ac.in
+       Senior Mechanic
+       IT Lab Complex SF
+
+   Mr Biju Francis:
+       0495 228 6870
+       biju@nitc.ac.in
+       Senior Mechanic
+       CSE Office
+
+   Bio Computing Lab:
+       0495 228 6879
+       
+       IT Lab Complex SF
+
+   Cloud Computing Lab:
+       0495 228 6862
+       
+       MB FF
+
+   Computational Intelligent Lab:
+       0495 228 6844
+       
+       MB FF
+
+   Dr APJ Abdul Kalam Conference Room:
+       0495 228 6828
+       Conference Room
+       MB FF
+
+   Dr Gopakumar G:
+       0495 228 6826
+       gopakumarg@nitc.ac.in
+       Assistant Professor
+       MB209
+   Hardware & Embedded System Lab:
+       0495 228 6841
+       
+       IT Complex SF
+
+   Image Processing Lab:
+       0495 228 6861
+       
+       MB FF
+
+   Mr Jayaraj P  B:
+       0495 228 6813
+       jayarajpb@nitc.ac.in
+       Assistant Professor
+       CSE Block Room No:105
+   Mr Jimmy Jose:
+       0495 228 6812
+       jimmy@nitc.ac.in
+       Assistant Professor
+       CSE Block Room No:301C
+
+   Ms Lijiya A:
+       0495 228 6815
+       lijiya@nitc.ac.in
+       Assistant Professor
+       CSE Block Room No:102
+   Dr Madhu Kumar S D:
+       0495 228 6806
+       madhu@nitc.ac.in
+       Associate Professor
+       CSE Block Room No:201
+   Dr Muralikrishnan K:
+       0495 228 6805
+       kmurali@nitc.ac.in
+       Associate Professor
+       CSE Block Room No:101B
+
+   Ms N Saleena:
+       0495 228 6807
+       saleena@nitc.ac.in
+       Assistant Professor
+       CSE Block Room No:203A
+
+   Network Systems Lab:
+       0495 228 6843
+       
+       IT Complex SF
+
+   Ms Pournami P N:
+       0495 228 6824
+       pournamipn@nitc.ac.in
+       Assistant Professor
+       CSE Block Room No:104
+   Dr Priya Chandran:
+       0495 228 6804
+       priya@nitc.ac.in
+        Professor
+       CSE Block Room No:201B
+
+   Mr Saidalavi Kalady:
+       0495 228 6809
+       said@nitc.ac.in
+       Associate Professor & HoD
+       CSE Block Room No:203B
+
+   Mr Saidalavi Kalady:
+       0495 228 6800
+       said@nitc.ac.in
+       Associate Professor & HoD
+       CSE Office
+
+   Mr Santhosh Kumar S:
+       0495 228 6858
+       santhosh@nitc.ac.in
+       System Programmer
+       CNC
+
+   Secure Computing Lab:
+       0495 228 6842
+       
+       IT Lab Complex SF
+
+   Seminar Hall:
+       0495 228 6878
+       
+       CSE Block FF
+
+   Software Systems Lab:
+       0495 228 6864
+       
+       IT Lab Complex SF
+
+   Ms Sreeja V:
+       0495 228 6841
+       sreeja@nitc.ac.in
+       Senior Mechanic
+       IT Lab Complex SF
+
+   Mr Sreenu Naik Bhukya:
+       0495 228 6817
+       bsnaik_81@nitc.ac.in
+       Assistant Professor
+       CSE Block Room No:104
+   Mr Srinivasa T M:
+       0495 228 6816
+       srini_2007@nitc.ac.i@nitc.ac.in
+       Assistant Professor
+       
+
+   Dr Subashini R:
+       0495 228 6820
+       suba@nitc.ac.in
+       Assistant Professor
+       CSE Block Room No:101A
+
+   Ms Subhasree M:
+       0495 228 6810
+       subha@nitc.ac.in
+       Assistant Professor
+       CSE Block Room No:101A
+
+   Dr Sudeep K S:
+       0495 228 6811
+       sudeep@nitc.ac.in
+       Assistant Professor
+       CSE Block Room No:103B
+
+   Mr Sumesh T A:
+       0495 228 6814
+       sumesh@nitc.ac.in
+       Assistant Professor
+       CSE Block Room No:303C
+
+   Ms Thanka C:
+       0495 228 6801
+       Sweeper Cum Sanitation Worker
+       CSE Office
+
+   Dr Vineeth Kumar P:
+       0495 228 6802
+       vpaleri@nitc.ac.in
+        Professor
+       CSE Block Room No:201C
+
+   Dr Vinod P:
+       0495 228 6803
+       pathari@nitc.ac.in
+       Associate Professor
+       CSE Block Room No:101C
+
+   Adhoc faculty Room CSED:
+       0495 228 6825
+       
+       CSED block 103
+   Adhoc Faculty Room CSED:
+       0495 228 6819
+       
+       MB FF
+
+
+#Guest House
+
+   Mr Abdulhameed K:
+       0495 228 6177
+       Watchman
+       Guest house
+
+   Mr  Abdurahiman P:
+       0495 228 6177
+       Bearer cum room boy
+       Guest House
+
+   Guest House:
+       0495 228 6170
+       
+       Guest House
+
+   Mr Mamukoya M:
+       0495 228 6177
+       Watchman Cum Gardener
+       Guest House
+
+   Mr Parameswaran K:
+       0495 228 6177
+       Bearer cum room boy
+       Guest house
+
+   Mr  Sadanandan M M:
+       0495 228 6177
+       Watchman Cum Gardener
+       Guest House
+
+
+
+#Mathematics
+
+   Mathematics Office:
+       0495 228 5201
+       
+       Mathematics Block GF
+
+   HOD:
+       0495 228 5200
+       hodmaths@nitc.ac.in
+       HOD
+       Mathematics Block GF
+
+   ADHOC FACULTY ROOM:
+       0495 228 5223
+       
+       Mathematics block
+
+   Dr Ashish Awasthi:
+       0495 228 5216
+       aaswathi@nitc.ac.in
+       Assistant Professor
+       Maths block 111
+   Bio computational & cancer research lab:
+       0495 228 5218
+       
+       Mathematics Block FF
+
+   Dr Charitha CH:
+       0495 228 5212
+       
+       
+
+   Dr Chithra A V:
+       0495 228 5204
+       chithra@nitc.ac.in
+       Associate Professor & HOD
+       Maths block 211
+   FACULTY ROOM -MATHS:
+       0495 228 5220
+       
+       Mathematics block
+
+
+   Dr Jacob M J:
+       0495 228 5203
+       mjj@nitc.ac.in
+        professor
+       Maths block 207
+   Dr Jessy John C:
+       0495 228 5202
+       jessy@nitc.ac.in
+        professor
+       Maths block 210
+   Dr Krishnan Paramasivam:
+       0495 228 5211
+       sivam@nitc.ac.in
+       Assistant Professor
+       Maths block 110
+   Dr Lineesh M C:
+       0495 228 5208
+       lineesh@nitc.ac.in
+       Assistant Professor
+       Maths block 312
+   Dr M S Sunitha:
+       0495 228 5207
+       sunitha@nitc.ac.in
+       Associate Professor
+       Maths block 208
+   Dr Mahesh Kumar:
+       0495 228 5214
+       mahesh@nitc.ac.in
+       Assistant Professor
+       Maths block 212
+
+   Maths Library:
+       0495 228 5219
+       
+       Maths Block GF
+
+   Dr Md Firoz Ali:
+       0495 228 5224
+       firozali@nitc.ac.in
+       Assistant Professor
+       Mathematics Block 112
+   Dr Narayanan V:
+       0495 228 5205
+       vna@nitc.ac.in
+       Associate Professor
+       Maths block 313
+   Ms Ravia T P:
+       0495 228 5201
+       Peon
+       Maths block GF
+
+   Dr Sanjay P K:
+       0495 228 5217
+       sanjaypk@nitc.ac.in
+       Assistant Professor
+       Maths block 317
+   Dr Satyananda Panda:
+       0495 228 5210
+       satyanand@nitc.ac.in
+       Associate Professor
+       Maths block 316
+   Scientific Computing Lab:
+       0495 228 5221
+       
+       Mathematics Block GF
+
+   Soft Computing Lab:
+       0495 228 5222
+       
+       Mathematics Block FF
+
+   Dr Sunil Jacob John:
+       0495 228 5206
+       sunil@nitc.ac.in
+       Associate Professor
+       Maths block 315
+   Dr Sunil Mathew:
+       0495 228 5213
+       sm@nitc.ac.in
+       Assistant Professor
+       Maths block 319
+   Dr Suresh Kumar Nadupuri:
+       0495 228 5215
+       nsk@nitc.ac.in
+       Assistant Professor
+       Maths block 214
+   Dr Sushama C M:
+       0495 228 5209
+       sushama@nitc.ac.in
+       Associate Professor
+       Maths block 109
+#Mechanical Engineering
+
+   Mechanical Engineering Office:
+       0495 228 6401
+       
+       Mechanical Engineering Block FF
+
+   HOD:
+       0495 228 6400
+       hodmed@nitc.ac.in
+       HOD
+       Mechanical Engineering Block FF
+
+
+   Dr  A Shaija:
+       0495 228 6427
+       shaija@nitc.ac.in
+       Associate Professor
+       TS Lab
+
+   Mr Abhilash A:
+       0495 228 6449
+       aabhilash@nitc.ac.in
+       Senior Mechanic (Selection Grade)
+       Thermal Science Lab
+
+   Mr Ajayan A:
+       0495 228 6443
+       Senior Mechanic (Selection Grade)
+       Foundry
+
+   Mr Anandhan P:
+       0495 228 6442
+       anandan p@nitc.ac.in
+       Senior Mechanic (Selection Grade)
+       Hydraulics Lab
+
+   Mr Anil Kumar:
+       0495 228 6442
+       pak66@nitc.ac.in
+       Supervisor
+       Hydraulics Lab
+
+   Dr Arun P:
+       0495 228 6424
+       arun.p@nitc.ac.in
+       Assistant Professor
+       DB 315
+   Dr Biju t Kuzhiveli:
+       0495 228 6418
+       btkuzhiveli@nitc.ac.in
+       Associate Professor
+       MB 001
+   Mr C P Hariharan:
+       0495 228 6475,6445
+       haricp@nitc.ac.in
+       Programmer
+       CAD/CAM Med
+
+   CAD -CNC:
+       0495 228 6476
+       
+       CAD/CAM Block GF
+
+   CAD/CAM Graphics:
+       0495 228 6445
+       
+       CAD/CAM Med
+
+   CAD/CAM Mechatronics:
+       0495 228 6444
+       
+       CAD/CAM Med
+
+   Carpentry/ Fitting /Welding:
+       0495 228 6448
+       
+       Workshop
+
+   CFD Lab:
+       0495 228 6482
+       
+       Fluid Mechanics Lab
+
+   Dr Deepak Lawrence K:
+       0495 228 6415
+       deepaklawrence@nitc.ac.in
+       Assistant Professor
+       CAD CAM Ground Floor
+
+   Dr Dhanish P B:
+       0495 228 6407
+       dhanish@nitc.ac.in
+       Assistant Professor
+       Machine Center
+
+   Mr E Pradeep Kumar:
+       0495 228 6461
+       epk@nitc.ac.in
+       Supervisor
+       Machine Workshop
+
+   Mr Eldho P Varghese:
+       0495 228 6441
+       epv76@nitc.ac.in
+       Senior Mechanic
+       Heat Engine lab
+
+   Energy Management Lab:
+       0495 228 6477
+       
+       MED PG Block FF
+
+   Faculty room  MED:
+       0495 228 6437
+       
+       TS Lab
+
+   Foundry:
+       0495 228 6443
+       
+       Workshop
+
+   Fuel Compression Lab:
+       0495 228 6453
+       
+       Fuel Compression Lab
+
+   Dr G Varaprasad:
+       0495 228 6403
+       gvp@nitc.ac.in
+       Assistant Professor
+       PG 207
+   Mr Gangadhara Kiran Kumar Lachireddi:
+       0495 228 6473
+       ganga@nitc.ac.in
+       Assistant Professor
+       Fluid Mechanics Lab
+
+   Mr George T M:
+       0495 228 6448
+       tmg@nitc.ac.in
+       Senior Mechanic (Selection Grade)
+       Workshop Carpentry Cabin
+
+   Dr Ghulam Jilani:
+       0495 228 6402
+       jilani@nitc.ac.in
+       Professor
+       DB121
+   Heat Engine Lab:
+       0495 228 6441
+       
+       Heat Engine Lab
+
+
+   Hydraulics lab:
+       0495 228 6442
+       
+       Hydraulics lab
+
+   Hydraulics Lab:
+       0495 228 6439
+       
+       Hydraulics lab
+
+   Industrial Engineering Lab:
+       0495 228 6481
+       
+       Nano Block
+
+   Mr Jagadeesha T:
+       0495 228 6451
+       jagdishsg@nitc.ac.in
+       Assistant Professor
+       Cad Cam  G Flr
+
+   Mr JayaDeep U B:
+       0495 228 6430
+       jayadeep@nitc.ac.in
+       Assistant Professor
+       CAD/CAM Med
+
+   Dr Jayaraj S:
+       0495 228 6416
+       sjayaraj@nitc.ac.in
+        Professor
+       PG201
+   Dr Jose  Mathew:
+       0495 228 6405
+       josemat@nitc.ac.in
+       Professor
+       DB120
+   Dr Joseph M A:
+       0495 228 6425
+       Joseph@nitc.ac.in
+       Professor
+       DB120
+   Dr Joy M L:
+       0495 228 6423
+       mlj@nitc.ac.in
+       Professor 
+       DB117
+   Dr K P Murali:
+       0495 228 6414
+       kpmurali@nitc.ac.in
+       Assistant Professor
+       DB117A
+
+   Mr. K Ratna Kumar:
+       0495 228 6463
+       Asst Profosser
+       Mechanical Engineering block
+
+   Dr K Sekar:
+       0495 228 6431
+       sekar@nitc.ac.in
+       Assistant Professor
+       PB 304
+   Mr M Narayanalal:
+       0495 228 6477
+       nlal@nitc.ac.in
+       Senior Mechanic
+       Energy Management Lab
+
+   Machine Workshop:
+       0495 228 6440
+       
+       Machine Workshop
+
+   Dr Madhusudanan Pillai V:
+       0495 228 6410
+       vmp@nitc.ac.in
+       Associate Professor
+       PG 302
+   Mr Manoj K G:
+       0495 228 6440
+       manoj@nitc.ac.in
+       Senior Mechanic
+       Machine Workshop
+
+   Dr Manu R:
+       0495 228 6426
+       manu@nitc.ac.in
+       Associate Professor
+       Workshop
+
+
+   MED Computer Center:
+       0495 228 6471
+       
+       Mechanical Engineering block
+
+   MED Library:
+       0495 228 6468
+       
+       Mechanical Engineering
+
+   Metrology Lab:
+       0495 228 6447
+       
+       MB GF
+
+   Mr Mohanan T P:
+       0495 228 6468,6401
+       teepee59@nitc.ac.in
+       Senior Mechanic (Selection Grade)
+       MED Library
+
+   Mr Mokalla Srinivas:
+       0495 228 6452
+       msrinivas@nitc.ac.in
+       Assistant Professor
+       PG205
+   Dr Muraleedharan C:
+       0495 228 6408
+       murali@nitc.ac.in
+       Professor
+       DB219
+   Dr Narayanan M D:
+       0495 228 6435
+       mdn@nitc.ac.in
+       Associate Professor
+       PB 205
+   Dr P K Rajendra Kumar:
+       0495 228 6428
+       pkrkumar@nitc.ac.in
+       Professor
+       DB117
+   Mr P V Manu:
+       0495 228 6429
+       pvmanu@nitc.ac.in
+       Assistant Professor
+       HE Lab
+
+   Mr Pradeep Kumar K K:
+       0495 228 6456
+       kkp69@nitc.ac.in
+       Instructor
+       Heat Engine Lab
+
+   Mr Prasad Moochikkal Variath:
+       0495 228 6448
+       pmv@nitc.ac.in
+       Senior Mechanic
+       Workshop Carpentry Cabin
+
+   Production Lab:
+       0495 228 6450
+       
+       Production Block GF
+
+   Dr R Sridharan:
+       0495 228 6406
+       sreedhar@nitc.ac.in
+       Professor
+       PG203
+   Mr Raghu P V:
+       0495 228 6454
+       raghupv@nitc.ac.in
+       Senior Mechanic (Selection Grade)
+       Sheet Metal Lab
+
+   Mr Rajendran M K:
+       0495 228 6450
+       mkr@nitc.ac.in
+       Instructor
+       Production Lab
+
+   Mr Rathna Kumar K:
+       0495 228 6433
+       ratna_kumar@nitc.ac.in
+       Assistant Professor
+       DB 122
+   Mr Rohinikumar B:
+       0495 228 6436
+       rohinikumar@nitc.ac.in
+       Assistant Professor
+       Hydraulics Lab
+
+   Dr Saleel Ismail:
+       0495 228 6412
+       saleel@nitc.ac.in
+       Assistant Professor
+       DB117B
+
+   Mr Sanal P R:
+       0495 228 6450
+       sanal@nitc.ac.in
+       Senior Mechanic (Selection Grade)
+       103
+   Mr Sasi K K:
+       0495 228 6475,6445
+       kksasi@nitc.ac.in
+       Senior Mechanic (Selection Grade)
+       CAD/CAM Med Staff Room
+
+   Mr Shali Joseph K:
+       0495 228 6443
+       kjs@nitc.ac.in
+       Senior Mechanic
+       Foundry
+
+   Sheet Metal Lab:
+       0495 228 6454
+       
+       Workshop
+
+   Smithy:
+       0495 228 6462
+       
+       Workshop
+
+   Sophisticated Instruments Centre:
+       0495 228 6446
+       
+       Production GF
+
+   Mr Sreenath A M:
+       0495 228 6434
+       sreenath@nitc.ac.in
+       Assistant Professor
+       CAD/CAM Med
+
+   Dr Sudarsan N:
+       0495 228 6072
+       sudarsan@nitc.ac.in
+       Professor
+       SOMS
+
+   Mr Sudheer A P:
+       0495 228 6420
+       apsudheer@nitc.ac.in
+       Assistant Professor
+       CAD/CAM Med
+
+   Mr Surendran P K:
+       0495 228 6440
+       pks@nitc.ac.in
+       Senior Mechanic (Selection Grade)
+       Machine Workshop
+
+   Mr Suresh K C:
+       0495 228 6448
+       kcs@nitc.ac.in
+       Senior Mechanic (Selection Grade)
+       Workshop Carpentry Cabin
+
+   Dr T J Sarvoththama Jothi:
+       0495 228 6419
+       tjsjothi@nitc.ac.in
+       Assistant Professor
+       TS Lab
+
+   Thermal Science Lab:
+       0495 228 6449
+       
+       Thermal Science Lab
+
+   Mr Unnikrishnan R:
+       0495 228 6476
+       kishan@nitc.ac.in
+       Senior Mechanic
+       Production Cnc/Cad
+
+   Mr Vasu T C:
+       0495 228 6441
+       tcv74@nitc.ac.in
+       Senior Mechanic (Selection Grade)
+       Heat Engine Lab
+
+   Mr Velayudhankutty N P:
+       0495 228 6447
+       npvkutty@nitc.ac.in
+       Senior Mechanic (Selection Grade)
+       Metrology Lab
+
+   Dr Vinay V Panicker:
+       0495 228 6466
+       vinay@nitc.ac.in
+       Assistant Professor
+       Nano Block Room No:304-C
+
+   Dr Vineesh K P:
+       0495 228 6411
+       vineesh@nitc.ac.in
+       Assistant Professor
+       CAD CAM Ground Floor
+
+
+
+#Physical Education
+
+   Dr A Mohamed Najeeb:
+       0495 228 6614
+       najeeb@nitc.ac.in
+       Associate Professor
+       Physical Education
+  
+	 Mr Sunil M S:
+       0495 228 6611
+       sunilms@nitc.ac.in
+       Assistant Professor
+       Physical Education  
+
+   Adhoc Staff Room:
+       0495 228 6617
+       
+       MB FF
+
+#Physics
+
+	 Physics Office:
+       0495 228 5101
+       
+       Physics Block GF
+	 HOD:
+       0495 228 5100
+       hodphysics@nitc.ac.in
+       HOD
+       Physics Block GF
+
+   Dr Aji A  Anappara:
+       0495 228 5107
+       aji@nitc.ac.in
+       Assistant Professor
+       Physics Block 117B
+
+	 Dr Madhavan Unni P K:
+       0495 228 5106
+       mad@nitc.ac.in
+       Assistant Professor
+       Physics Block 116B
+
+   Dr Maneesh Chandran:
+       0495 228 5119
+       maneesh@nitc.ac.in
+       Assistant Professor
+       117A
+
+	 Dr Predeep P:
+       0495 228 5103
+       predeep@nitc.ac.in
+       Professor & HOD
+       Physics Block 109
+
+   Dr Raghu Chatanathody:
+       0495 228 5104
+       raghuc@nitc.ac.in
+       Associate Professor
+       Physics Block 206
+
+   Dr Ravi Varma Mundakkara Kovilakam:
+       0495 228 5105
+       r.varma@nitc.ac.in
+       Associate Professor
+       Physics Block 204
+	 
+	 Dr Chandrasekharan K:
+       0495 228 5102
+       csk@nitc.ac.in
+       Professor
+       Physics Block 103
+
+   Applied Optics & Instrumentation lab:
+       0495 228 5111
+       
+       Physics Block FF
+
+   Dr Aswathi G:
+       0495 228 5123
+       aswathig@nitc.ac.in
+       Assistant Professor
+       213A
+
+	 Mr Vari Sivaji Reddy:
+       0495 228 5108
+       sivaji@nitc.ac.in
+       Assistant Professor
+       Physics Block 213B
+	
+	 Mr Prakash Peter:
+       0495 228 5109
+       prakash@nitc.ac.in
+       Laboratory Assistants
+       
+   BTECH Lab:
+       0495 228 5114
+       
+       Physics Block GF
+
+   Computer Centre Physics:
+       0495 228 5112
+       
+       Physics Block GF
+
+   Critical Point Phenomena and Polymer Dynamics Lab:
+       0495 228 5118
+       
+       Physics Block FF
+
+   Laser Non Linear Optics Lab:
+       0495 228 5110
+       
+       Physics Block FF
+
+   MSc Tech ELE Lab:
+       0495 228 5115
+       
+       Physics Block SF
+
+   Organic & Nano Electronics Lab:
+       0495 228 5116
+       
+       
+
+   Photonic Materials And Device  Lab:
+       0495 228 5117
+       
+       Physics Block SF
+
+   UE & P Lab:
+       0495 228 5113
+       
+       Physics Block SF
+
+#School of Biotechnology
+
+   Biotechnology Office:
+       0495 228 5451
+       
+       Biotechnology Block SF
+
+   HOD:
+       0495 228 5450
+       hodbiotech@nitc.ac.in
+       HOD
+       Biotechnology Block SF
+
+   Dr A Santhiagu:
+       0495 228 5454
+       asanthiagu@nitc.ac.in
+       Associate Professor
+       Biotechnology 302
+   Dr BAIJU G NAIR:
+       0495 228 5472
+       Assistant Professor
+       ROOM 302
+   Bio chemistry lab:
+       0495 228 5458
+       
+       Biotechnology SF
+
+   Bio Chemistry Lab:
+       0495 228 5457
+       
+       Biotechnology SF
+
+
+   Dr M D Anaul Kabir:
+       0495 228 5461
+       anaulk@nitc.ac.in
+       Associate Professor & HOD
+       Biotechnology 304
+   Molecular Biology Lab:
+       0495 228 5462
+       
+       Biotech block
+
+   Dr Prem Raj P:
+       0495 228 5460
+       drpremrajp@nitc.ac.in
+       Assistant Professor
+       Biotechnology 302
+   Dr Rajanikant G  Krishnamurthy:
+       0495 228 5452
+       rajanikant@nitc.ac.in
+       Associate Professor 
+       Biotechnology 304
+   Dr Rathinaswamy K:
+       0495 228 5455
+       rathin@nitc.ac.in
+       Assistant Professor
+       Biotechnology 302
+   Ms Santha K K:
+       0495 228 5451
+       santhakk@nitc.ac.in
+       Sanitation Worker
+       Biotechnology Block
+
+   Dr Suchithra T V:
+       0495 228 5456
+       drsuchithratv@nitc.ac.in
+       Assistant Professor
+       Biotechnology 302
+   Dr SURESH P S:
+       0495 228 5470
+       suresh@nitc.ac.in
+       Assistant Professor
+       ROOM 302
+#School of Management Studies (SOMS)
+
+   Soms Office:
+       0495 228 6075
+       
+       SOMS
+
+   HOD:
+       0495 228 6077
+       hodsoms@nitc.ac.in
+       HOD
+       SOMS
+
+   Dr Althaf S:
+       0495 228 6080
+       althaf@nitc.ac.in
+       Assistant Professor
+       
+
+   Data Science Lab:
+       0495 228 6086
+       
+       MS 206
+   Faculty Room Soms:
+       0495 228 6074
+       
+       MB SF
+
+
+   Dr Muhammed Shafi K:
+       0495 228 6076
+       shafi@nitc.ac.in
+       Assistant Professor
+       SOMS
+
+   Dr Nithya:
+       0495 228 6082
+       nithyam@nitc.ac.in
+       Assistant Professor
+       MS 109G
+
+   Mr P Apputty:
+       0495 228 6075
+       Peon (Higher Grade)
+       SOMS
+
+   Dr Preethi Navaneeth:
+       0495 228 6078
+       preetinavaneeth@nitc.ac.in
+       Assistant Professor
+       MB 302
+   Dr Reju George Mathew:
+       0495 228 6085
+       rejugm@nitc.ac.in
+       Assistant Professor
+       MS 211A
+
+   SOMS Faculty Room:
+       0495 228 6072
+       
+       SOMS ground floor
+
+   SOMS Library:
+       0495 228 6071
+       
+       SOMS ground floor
+
+
+   SOMS Research Schoolars Room:
+       0495 228 6070
+       
+       MS 205
+   SOMS Security:
+       0495 228 6073
+       
+       SOMS ground floor
+
+   Dr Sreejith S S:
+       0495 228 6087
+       sreejithss@nitc.ac.in
+       Assistant Professor
+       MS 207E
+
+   Dr Sunitha S:
+       0495 228 6079
+       sunita@nitc.ac.in
+       Assistant Professor
+       MB 302
+   Dr T K Suresh Babu:
+       0495 228 6083
+       suresh@nitc.ac.in
+       Professor
+       MS 108A
+
+   Dr T Radharamanan:
+       0495 228 6081
+       radha_ramanan@nitc.ac.in
+       Assistant Professor
+       SOMS
+
+   Visiting Facualty Room:
+       0495 228 6084
+       
+       MS 109F
+
+
+
+#School of Nano Technology
+
+	 HOD:
+       0495 228 6500
+       HOD
+       Nano Technology Block FF
+
+
+   Dr C B Sobhan:
+       0495 228 6502
+       csobhan@nitc.ac.in
+       Professor & HOD
+       NANO G FLR
+
+   Dr Hanas T:
+       0495 228 6543
+       hanas@nitc.ac.in
+       Assistant Professor
+       Materials research laborotory
+
+	 Dr Sajith V:
+       0495 228 6525
+       sajith@nitc.ac.in
+       Assistant Professor
+       NANO G FLR
+
+   Mr Hanas T(Qip):
+       0495 228 6526
+       hanas@nitc.ac.in
+       Assistant Professor
+       
+	  Mr Shijo Thomas:
+       0495 228 6529
+       shijo@nitc.ac.in
+       Assistant Professor
+       NANO I FLR
+
+   Dr Soney Varghese:
+       0495 228 6524
+       soneyva@nitc.ac.in
+       Assistant Professor
+       NANO I FLR
+
+   Dr N Sandhyarani:
+       0495 228 6537
+       sandhya@nitc.ac.in
+       Associate Professor
+       NANO I FLR
+
+   Nano Display lab:
+       0495 228 6528
+       
+       Nano Block FF
+
+   NANO PG Lab:
+       0495 228 6540
+       
+   NANO Research Lab:
+       0495 228 6541
+       
+   Nano Science Research Lab:
+       0495 228 6537
+       
+       Nano Block FF
+
+   Nano Technology Office:
+       0495 228 6501
+       
+       Nano Technology Block FF
+
+   SEM Lab:
+       0495 228 6542
+       
+       NANO G FLR
+
+  
+#Training and Placement
+
+   Training & pLacement Office:
+       0495 228 6601
+       
+       Training & Placement Block GF
+
+   Dr Sameer T & P:
+       0495 228 6602
+       HOD
+       Training and placement block GF
+
+   HOD:
+       0495 228 6600
+       
+       Training and Placement
+
+   Prof.Continuing Edu:
+       0495 228 6603
+       
+       Training and Placement
+
+   Mr Rajan M:
+       0495 228 6601
+       Watchman
+       Training and placement block GF
+
+   SEMINAR HALL T&P:
+       0495 228 6607
+       
+       Training and Placement
+
+
+
+
+#ECE
+
+	ECE Engineering Office:
+		+91495 228 6701
+
+	HOD:
+		+91495 228 6700
+
+	Dr. R Karthik:
+		+91495 228 6771
+		Assistant Professor
+		Email: karthik@nitc.ac.in
+		Location: TTL Faculty Room
+
+	Dr. Abhilash G:
+		+91495 228 6707
+		Associate Professor
+		Email: abhilash@nitc.ac.in
+
+	Dr. Ali C K:
+		+91495 228 6717
+		Associate Professor
+		Email: cka@nitc.ac.in
+
+	Dr. Ameer P M:
+		+91495 228 6731
+		Assistant Professor
+		Email: ameer@nitc.ac.in
+
+	Mr. Anandhan K R:
+		+91495 228 6743
+		Senior Mechanic (Selection Grade)
+		Email: kran@nitc.ac.in
+
+	Mr. B Bhuvan:
+		+91495 228 6711
+		Assistant Professor
+		Email: bhuvan@nitc.ac.in
+
+	Dr. Babu A V:
+		+91495 228 6706
+		Associate Professor & HOD
+		Email: babu@nitc.ac.in
+
+	Dr. Bindya T S:
+		+91495 228 6723
+		Assistant Professor
+		Email: bindyajayakumar@nitc.ac.in
+	
+	Dr. Deepthi P P:
+		+91495 228 6725
+		Associate Professor
+		Email: deepthi@nitc.ac.in
+	
+	Dr. Venu Anand:
+		+91495 228 6736
+		Assistant Professor
+		Email: venuanand@nitc.ac.in
+	
+	Mr. Jaikumar M G:
+		+91495 228 6702
+		Associate Professor
+		Email: jkmg@nitc.ac.in
+
+	Mr. Jayakumar E P:
+		+91495 228 6732
+		Assistant Professor
+		Email: jay@nitc.ac.in
+
+	Ms. Lyla B Das:
+		+91495 228 6709
+		Associate Professor
+		Email: lbd@nitc.ac.in
+
+	Mr. Dhanaraj K J:
+		+91495 228 6710
+		Assistant Professor
+		Email: dhanaraj@nitc.ac.in
+
+	Dr. Praveen Shankaran:
+		+91495 228 6721
+		Assistant Professor
+		Email: pshankaran@nitc.ac.in
+
+	Mr. Raghu C V:
+		+91495 228 6715
+		Assistant Professor
+		Email: raghucv@nitc.ac.in
+
+	Dr. Sameer S M:
+		+91495 228 6720
+		Assistant Professor
+		Email: sameer@nitc.ac.in
+
+	Dr. Sathi Devi P S:
+		+91495 228 6704
+		Professor
+		Email: sathi@nitc.ac.in
+
+	Dr. Sreelekha G:
+		+91495 228 6726
+		Associate Professor
+		Email: lekha@nitc.ac.in
+
+	Mr. Sudhish N George:
+		+91495 228 6716
+		Assistant Professor
+		Email: sudhish.nitc.ac.in
+
+	Ms. Suja K J:
+		+91495 228 6722
+		Assistant Professor
+		Email: suja.nitc.ac.in
+
+	Mr. Suresh R:
+		+91495 228 6712
+		Associate Professor
+		Email: rangan@nitc.ac.in
+
+	Dr. Surya Prakash:
+		+91495 228 6734
+		Assistant Professor
+		Email: suryaprakash@nitc.ac.in
+
+	TTL Lab:
+		+91495 228 6745
+
+	Mr. V Sakthivel:
+		+91495 228 6730
+		Assistant Professor
+		Email: sakthi517@nitc.ac.in
+
+	Dr. Lillykutty Jacob
+		+91495 228 6718
+		Professor
+		Email: lilly@nitc.ac.in
+
+	Dr. P C Subramanian:
+		+91495 228 6708
+		Professor
+
+	Dr. Elizabeth Elias:
+		+91495 228 6703
+		Professor
+		Email: elizabeth@nitc.ac.in
+
+	Circuit Lab:
+		+91495 228 6741
+
+	Communication Engineering Lab:
+		+91495 228 6744
+
+	DST Fist Lab:
+		+91495 228 6749
+
+	ECED Library:
+		+91495 228 6755
+
+	Electronics Workshop:
+		+91495 228 6753
+
+	Embedded System Lab:
+		+91495 228 6743
+	
+	IC Lab:
+		+91495 228 6742
+
+	Mr. K P Venugopalan:
+		+91495 228 6740
+		Instructor
+		Email: kpvenu@nitc.ac.in
+
+	Mr. Krihnankutty V:
+		+91495 228 6741
+		Senior Mechanic (Selection Grade)
+		Email: krishnankutty@nitc.ac.in
+
+	PHD Research Scholar Room:
+		+91495 228 6739
+
+	Mr. Praveen H Babu:
+		+91495 228 6742
+		Senior Mechanic
+		Email: phb@nitc.ac.in
+
+	
+	Project Lab:
+		+91495 228 6756
+
+	PSOC Lab:
+		+91495 228 6748
+
+	SPCOM Lab:
+		+91495 228 6751
+
+	
+	Mr. Suresh Kumar H:
+		+91495 228 6744
+		Senior Mechanic
+		gsk@nitc.ac.in
+
+	Mr. Veluthakki C:
+		+91495 228 6701
+		C. A. GR. II (HR.GR)
+		Email: leela@nitc.ac.in
+	
+	VLSI Lab:
+		+91495 228 6746
+
+        
+#EEE
+
+	Electrical Engineering Office:
+		+91495 228 6301
+
+	HOD:
+		+91495 228 6300
+		Email: hodeed@nitc.ac.in
+
+	Dr. Jeevama Jacob
+		+91495 228 6321
+		Professor & HOD
+		Email: jeeva@nitc.ac.in
+
+	Dr. Gopakumar P:
+		+91495 228 6307
+		Assistant Professor
+		Email: gopakumar@nitc.ac.in
+
+	Ms. Hemarani P:
+		+91495 228 6319
+		Assistant Professor
+		Email: hema@nitc.ac.in
+
+	Mr. Ananthakrishnan P:
+		+91495 228 6313
+		Associate Professor
+		Email: anantha@nitc.ac.in
+
+	Dr. Elizabeth P Cheriyan:
+		+91495 228 6312
+		Associate Professor
+		Email: epc@nitc.ac.in
+
+	Mr. Jagadanand G:
+		+91495 228 6311
+		Assistant Professor
+		Email:jagadanand@nitc.ac.in
+
+	Dr. M Sanjay
+		+91495 228 6385
+		Assistant Professor
+		Email: msanjay@nitc.ac.in
+
+	Ms. Mija S J:
+		+91495 228 6324
+		Assistant Professor
+		Email: mija@nitc.ac.in
+
+	Dr. Mukti Barai:
+		+91495 228 6318
+		Assistant Professor
+		Email: muktib@nitc.ac.in
+
+	Ms. Preetha P:
+		+91495 228 6315
+		Associate Professor
+		Email: preetha@nitc.ac.in
+
+	Dr. Rijil Ramchand:
+		+91495 228 6332
+		Associate Professor
+		Email: rijil@nitc.ac.in
+
+	Mr. Subhash K M:
+		+91495 228 6353
+		Assistant Professor
+		Email: subhash@nitc.ac.in
+
+	Ms. Subha D Puthankattil:
+		+91495 228 6310
+		Assistant Professor
+		Email: subhadp@nitc.ac.in
+
+	Dr. Sindhu T K:
+		+91495 228 6363
+		Assistant Professor
+		Email: tk_sindhu@nitc.ac.in
+
+	Ms. Sunitha K:
+		+91495 228 6380
+		Assistant Professor
+		Email: sunithak@nitc.ac.in
+	Mr. Suresh Kumar K S:
+		+91495 228 6347
+		Associate Professor
+		Email: rsunitha@nitc.ac.in
+	
+	Dr. Susy Thomas:
+		+91495 228 6304
+		Professor
+		Email: susy@nitc.ac.in
+
+	Dr. Ashok S:
+		+91495 228 6305
+		Professor
+		Email: ashoks@nitc.ac.in
+
+	Dr. Paul Joseph K:
+		+91495 228 6303
+		Professor
+		Email: paul@nitc.ac.in
+
+	Dr. M P Nanda Kumar:
+		+91495 228 6316
+		Professor
+		Email: nandu@nitc.ac.in
+
+	Dr. Saly George:
+		+91495 228 6317
+		Professor
+		Email: saly@nitc.ac.in
+
+	Instrumentation Systems Lab:
+		+91495 228 6384
+
+	Dr. Abraham T Mathew:
+		+91495 228 6314
+
+	Adhoc Faculty - EED (Room 307):
+		+91495 228 6381
+
+	Adhoc Faculty - EED (Room 308):
+		+91495 228 6382
+
+	Adhoc Faculty Room:
+		+91495 228 6329
+
+	Advanced Control Systems Lab:
+		+91495 228 6383
+	
+	Mr. Ashok Kumar P T:
+		+91495 228 6345
+		Senior Mechanic (Selection Grade)
+		Email: asokkumarpt@nitc.ac.in
+
+	Bio Medical Lab:
+		+91495 228 6349
+
+	Control System Lab:
+		+91495 228 6355
+
+	DCS Lab:
+		+91495 228 6346
+
+	EED - Library:
+		+91495 228 6368
+
+	Electrical Machines Lab:
+		+91495 228 6341
+
+	Electrical Measurements Lab:
+		+91495 228 6342
+
+	Electrical Workshop:
+		+91495 228 6344
+	
+	Energy Research Lab:
+		+91495 228 6379
+
+	Examination Hall EED:
+		+91495 228 6370
+	
+	Industrial Power Lab:
+		+91495 228 6354
+	
+	Mr. Jayan V S:
+		+91495 228 6343
+		Senior Mechanic
+		Email: jayan@nitc.ac.in
+	
+	Mr. N K Mohammed Sali:
+		+91495 228 6355
+		Senior Mechanic (Selection Grade)
+		Email: sali_mohamed@nitc.ac.in
+
+	Mr. Nandakumar K:
+		+91495 228 6342
+		Senior Mechanic
+		Email: nan@nitc.ac.in
+
+	Power Electronics Lab:
+		+91495 228 6345
+
+	Power Engineering:
+		+91495 228 6357
+
+	Power System Lab:
+		+91495 228 6372
+	
+	Research Scholars Room:
+		+91495 228 6350
+	
+	Mr. Sadanandan T K:
+		+91495 228 6369
+		Senior Mechanic (Selection Grade)
+		Email: tks@nitc.ac.in
+	
+	Mr. Sasesh A R:
+		+91495 228 6342
+		Senior Mechanic (Selection Grade)
+		Email: sasesh@nitc.ac.in
+
+	Simulation Lab:
+		+91495 228 6351
+
+	Simulation Server Room:
+		+91495 228 6352
+	
+	Mr. Somanath K A:
+		+91495 228 6344
+		Senior Mechanic (Selection Grade)
+		Email: somanath@nitc.ac.in
+	
+	Mr. T K Sunil Kumar:
+		+91495 228 6328
+		Assistant
+		Email: tksunil@nitc.ac.in
+
+# Students Guidance Cell
+	Students Guidance Cell (SGC):
+		+914952286180
+		sgc@nitc.ac.in
+		
+		Address -
+		MB First Floor
+
+#Health Centre
+	Dr. A A Celine:
+		+914952286651
+		+914952286659
+		Resident Medical Officer
+			
+	Mr.Abraham P:
+		+914952286652
+		Pharmacist
+	
+	DOCTOR'S ROOM:	
+		+914952286650
+		+914952286651	
+		Doctor's room
+		
+	PHARMACY:
+		+914952286653
+	
+	
+#Autorickshaws
+
+    Pramod:
+        +919895965004
+        VAVA    
+    Vasanthan:
+        +919895828582
+        SUVARNA
+    Babu:
+        +919847168217
+        CHICKOOS
+    Sathyan:
+        +919947485819
+        DOSTH
+    Nimesh:
+        +919947750114
+       
+    Shylesh:
+        +919544248289
+        
+    Sreenivasan:
+        +919947758559
+        
+    Sanil:
+        +919846448090
+        ALLU
+    Jamshad:
+        +919645011509
+        DIYA SIYA
+    Soman:
+        +919846998217
+        CHANDHANA
+     
+    Balakrishnan:
+        +919656171436
+        ARYA
+        
+    Suresh:
+        +919744668757
+        CHITHIRA
+        
+    Jaleel:
+        +918943285240
+        DECCAN
+        
+    Jineesh:
+        +919745550293
+        NAVANEETH
+        
+    Vinod:
+        +918589809286
+        ASHWAMEDHAM
+        
+    Rameshan:
+        +919496213501
+        
+    Santhosh:
+        +919447632597
+        
+    Sathyan:
+        +919072007889
+        THACHAVALLI
+        
+    Roy:
+        +919400744111
+        RIJOYS
+        
+    Prajeesh:
+        +918547882788
+        PUNATHIL	
