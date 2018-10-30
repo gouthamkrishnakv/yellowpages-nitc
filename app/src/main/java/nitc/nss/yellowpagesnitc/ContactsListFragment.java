@@ -107,6 +107,7 @@ public class ContactsListFragment extends Fragment {
 
         public void loadContact(Contact contact) {
             vName.setText(contact.name);
+            vPhonesList.removeAllViews();
             for(final String number: contact.numbers) {
                 View phonesListEntry = LayoutInflater.from(getContext())
                         .inflate(R.layout.phones_list_item, null);
